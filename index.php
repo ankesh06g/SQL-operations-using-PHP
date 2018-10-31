@@ -13,6 +13,7 @@
             <a href="display.php" target="window"><div class="tab">Display</div></a>
             <a href="add.php" target="window"><div class="tab">Add</div></a>
             <a href="delete.php" target="window"><div class="tab">Delete</div></a>
+            <a href="update.php" target="window"><div class="tab">Update</div></a>
         </div>
         <iframe name="window" src="display.php"></iframe>
         <div class="footer">
